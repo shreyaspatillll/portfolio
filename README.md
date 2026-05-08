@@ -13,7 +13,7 @@ Features
 - Social Media Links: Quick access to my social media profiles.
 
 Installation
-1. Clone the repository: git clone https://github.com/shreyas69notsus/portfolio.git
+1. Clone the repository: git clone https://github.com/shreyaspatillll/portfolio.git
 2. Navigate into the project directory: cd portfolio
 3. Open index.html in your browser to view the website locally.
 
